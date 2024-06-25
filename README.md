@@ -21,7 +21,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para rela
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT.
 
 
 ⭐️ Se você gostou deste projeto, não esqueça de dar uma estrela no repositório!
